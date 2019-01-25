@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Wildflower is an ecosystem of decentralized Montessori micro-schools that support children, teachers, and parents. Wildflower aspires to give all children and families the opportunity to choose high quality, beautiful learning environments as they follow life’s unfolding journey.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Find out more at [wildflowerschools.org](https://wildflowerschools.org/)
