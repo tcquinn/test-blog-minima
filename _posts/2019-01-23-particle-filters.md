@@ -4,6 +4,7 @@ title:  "Bayesian filtering using a hidden Markov model"
 author: Ted Quinn
 categories: ted
 math: true
+comments: true
 ---
 
 Supposed we have a system that's evolving over time, and we're trying to track its state by taking a series of measurements or sensor readings. Just to pick two illustrative examples, consider an airplane moving through the sky or a student learning a new subject.
