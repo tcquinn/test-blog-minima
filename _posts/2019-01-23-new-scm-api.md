@@ -4,6 +4,7 @@ title:  "Redesigning the API for our sequential Monte Carlo code"
 author: Ted Quinn
 categories: ted
 math: true
+comments: true
 ---
 
 A sequential Monte Carlo model is defined by four (conditional) probability models:
