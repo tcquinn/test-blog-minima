@@ -21,7 +21,10 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+  <p>site.disqus.shortname: {{ site.disqus.shortname }}</p>
+  <p>jekyll.environment: {{ jekyll.environment }}</p>
+  <p>site.url: {{ site.url }}</p>
+  
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
