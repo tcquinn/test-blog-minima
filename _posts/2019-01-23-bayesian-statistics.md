@@ -5,6 +5,7 @@ author: Ted Quinn
 categories: ted
 math: true
 comments: true
+commento: true
 ---
 
 The following is my attempt to lay out what I think I understand about the distinction between Bayesian and non-Bayesian approaches to probability and statistics, in order to get the discussion started. There are a few important caveats here. First, I'm going to overexplain a bunch of basic concepts that you already know well. My intention in doing this is to try to be explicit about the way I think about these basic concepts in order to illuminate any differences in how we each think about these things and/or mistakes in my own thinking.

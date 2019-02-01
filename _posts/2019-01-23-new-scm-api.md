@@ -5,6 +5,7 @@ author: Ted Quinn
 categories: ted
 math: true
 comments: true
+commento: true
 ---
 
 A sequential Monte Carlo model is defined by four (conditional) probability models:
